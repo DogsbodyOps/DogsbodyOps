@@ -1,6 +1,6 @@
 # Hey, I'm Aaron 👋
 
-DevOps / Platform / Infrastructure Engineer based in Greater Manchester, UK.
+DevOps / Platform / Infrastructure Engineer based in Richmondshire, UK.
 I build things that make infrastructure boring in the best possible way —
 repeatable, observable, and ideally not on fire at 2am.
 
@@ -17,7 +17,7 @@ then automated the breaking too (on purpose, in staging).
 **IaC:** Terraform · Ansible · Bicep · Packer  
 **Containers:** Kubernetes (GKE/AKS) · Docker · Helm  
 **CI/CD:** Azure DevOps · Gitea Actions · Atlantis · Spinnaker  
-**Observability:** Prometheus · Grafana · Thanos · Datadog · Azure Monitor  
+**Observability:** Prometheus · Grafana · Datadog · Azure Monitor  
 **Security:** Cyber Essentials Plus · ISO 27001 · SOC 2 · Azure Key Vault · Vault  
 **Networking:** BGP · OSPF · Cisco · Juniper · Aruba · Unifi  
 **Scripting:** Bash · Python · PowerShell  
@@ -65,4 +65,4 @@ If you're on DN42, come find me.
 
 ---
 
-*Greater Manchester, UK · Open to remote-first permanent roles*
+*Richmondshire, UK · Open to remote-first permanent roles*
