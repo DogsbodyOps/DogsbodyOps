@@ -58,10 +58,10 @@ If you're on DN42, come find me.
 ## 📫 Get in touch
 
 - 📧 aaron@thedc.space
-- 💼 [LinkedIn](https://linkedin.com/in/) *(add your URL)*
+- 💼 [LinkedIn](https://linkedin.com/in/](https://www.linkedin.com/in/aaron-watson-30197821/)
 - 🐙 You're already here
 
-> *Currently working toward KCNA → CKA. AZ-900 certified.*
+> *Currently working toward KCNA → CKA*
 
 ---
 
