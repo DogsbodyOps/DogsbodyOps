@@ -41,7 +41,7 @@ infrastructure deserves proper infrastructure.
 Model Context Protocol server for MediaWiki — lets AI assistants
 read and interact with wiki content natively. Built this week because
 why not make wikis smarter.
-→ [`mediawiki-mcp`](https://github.com/DogsbodyOps/mediawiki-mcp) *(update link if name differs)*
+→ [`mediawiki-mcp`](https://github.com/DogsbodyOps/mediawiki-mcp)
 
 ---
 
@@ -51,7 +51,7 @@ I'm active on the **DN42 network** — a decentralised, non-production internet
 where engineers mess around with real BGP, OSPF, and peering agreements
 for fun. It's essentially a homelab that spans the globe.
 
-If you're on DN42, come find me.
+I also enjoy indoor bouldering and wall climbing.
 
 ---
 
