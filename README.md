@@ -43,6 +43,10 @@ read and interact with wiki content natively. Built this week because
 why not make wikis smarter.
 → [`mediawiki-mcp`](https://github.com/DogsbodyOps/mediawiki-mcp)
 
+### 🤖 Zoho Mail MCP Server
+MCP seerver for interacting with my Zoho mailbox, experimental at this stage.
+Lets AI agents read my unread emails, and summarise for me.
+
 ---
 
 ## 🌐 Outside of work
